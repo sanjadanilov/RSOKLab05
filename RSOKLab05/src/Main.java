@@ -6,6 +6,8 @@ public class Main {
 		
 		System.out.println("Sanja Danilov");
 		int broj=1;
+		int a;
+		
 		
 
 	}
